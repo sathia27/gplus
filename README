@@ -1,0 +1,4 @@
+Dependencies: ruby, rubygems, mechanize
+
+sudo apt-get install rubygems
+sudo gem install mechanize
